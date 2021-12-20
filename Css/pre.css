@@ -10,11 +10,12 @@ h1{
   font-family: 'Courgette', cursive;
 }
 .btn{
-  position: absolute;
-  margin-top: -150px;
-    left: 49%;
-    transform: translate(-50%, -50%);
+    left: 47%;
+    margin-top: -20px;
+}
+.btn h1{
+  color: indianred;
 }
 .text{
-  margin-top: -80px;
+  margin-top: 3%;
 }
