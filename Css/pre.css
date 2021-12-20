@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+body{
+  background-image:linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(anime-scenery-01.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+h1{
+  text-align: center;
+  color: blanchedalmond;
+  font-family: 'Courgette', cursive;
+}
+.btn{
+  position: absolute;
+  margin-top: -150px;
+    left: 49%;
+    transform: translate(-50%, -50%);
+}
+#image{
+  margin-left: 40%;
+}
+.text{
+  margin-top: -80px;
+}
